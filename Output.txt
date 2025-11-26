@@ -1,0 +1,28 @@
+===== ONLINE QUIZ APP =====
+
+1. What is the size of int in Java?
+A. 2 bytes
+B. 4 bytes
+C. 8 bytes
+D. Depends on OS
+Your Answer: B
+✔ Correct!
+
+2. Who invented Java?
+A. James Gosling
+B. Dennis Ritchie
+C. Guido van Rossum
+D. Bjarne Stroustrup
+Your Answer: A
+✔ Correct!
+
+3. Which keyword is used to inherit a class?
+A. implement
+B. inherit
+C. extends
+D. using
+Your Answer: C
+✔ Correct!
+
+===== QUIZ FINISHED =====
+Your Score: 3/3
